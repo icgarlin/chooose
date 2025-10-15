@@ -68,5 +68,5 @@ ANSWER: Portfolios (like the SAF portfolio):
 
 ### Prompt Reasoning 
 - I would accept prompts based on the above clarifying questions.  
-I created a file called APPLICATION_FLOW.md that described the purpose of the Chooose software service and as I prompted Claude Code, I would ensure that the proposed changes were aligned with that file. 
+In my README.md I describe the purpose of the Chooose software service and as I prompted Claude Code, I would ensure that the proposed changes were aligned with that file. 
 Everything started from my analysis of the data structure and the and my assumption that it was a multi-tenant architecture.
