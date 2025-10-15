@@ -1,0 +1,202 @@
+{
+  "deleted": false,
+  "automaticUserClaimFilter": null,
+  "paymentFull": {
+    "stripeCustomers": [
+      {
+        "currency": "USD",
+        "id": "cus_SYSJC9aAKvkZuI"
+      }
+    ],
+    "currency": "USD",
+    "paymentMethods": [
+      {
+        "id": "1bf0e39b-65a3-43b3-867c-a60467630bb8",
+        "weight": 3,
+        "incompleteSince": null,
+        "validSince": "2025-06-24T00:00:00Z",
+        "failingSince": null,
+        "abandonedSince": null,
+        "nextRetryAttempt": null,
+        "attemptCounter": 0,
+        "status": "Valid",
+        "type": "Stripe",
+        "invoice": null,
+        "stripe": {
+          "currency": "USD",
+          "setupIntentId": null,
+          "paymentMethodId": "pm_1RdLOgCW4HwQ4mu2EtLPSiSq",
+          "customerId": "cus_SYSJC9aAKvkZuI"
+        },
+        "cardBrand": "visa",
+        "cardFunding": "credit",
+        "cardLast4": "4242",
+        "cardExpMonth": 12,
+        "cardExpYear": 2034,
+        "cardBillingName": "Kanu Test",
+        "deleted": false,
+        "createdDate": "2025-06-24T02:47:50.747Z",
+        "createdBy": "6859b1ff126bf9c340634e7b",
+        "createdByPrincipal": null,
+        "modifiedDate": "2025-06-24T02:47:50.747Z",
+        "modifiedBy": "6859b1ff126bf9c340634e7b",
+        "modifiedByPrincipal": null
+      },
+      {
+        "id": "2f1a5c1a-4874-4d82-b63e-6bc1f526c9f0",
+        "weight": 2,
+        "incompleteSince": null,
+        "validSince": null,
+        "failingSince": null,
+        "abandonedSince": null,
+        "nextRetryAttempt": null,
+        "attemptCounter": 0,
+        "status": null,
+        "type": "Invoice",
+        "invoice": {
+          "address": {
+            "line1": "123 Madison Drive",
+            "line2": "",
+            "city": "Chicago",
+            "cityCode": null,
+            "state": "US-IL",
+            "zipCode": "60612",
+            "countryCodeIso2": "US"
+          },
+          "contact": {
+            "name": "Billing Department",
+            "phoneNumber": "6096471782",
+            "email": "kanupriya.bhargava+kbq12345@chooose.today"
+          },
+          "billingEmail": "kanupriya.bhargava+kbq12345@chooose.today",
+          "tripletex": {
+            "customerAccountNumber": null,
+            "customerId": null
+          },
+          "reference": null,
+          "comment": null,
+          "confirmed": true,
+          "organizationNumber": "ABC12345"
+        },
+        "stripe": null,
+        "cardBrand": null,
+        "cardFunding": null,
+        "cardLast4": null,
+        "cardExpMonth": null,
+        "cardExpYear": null,
+        "cardBillingName": null,
+        "deleted": false,
+        "createdDate": "2025-06-24T01:18:58.245Z",
+        "createdBy": "6859b1ff126bf9c340634e7b",
+        "createdByPrincipal": null,
+        "modifiedDate": "2025-06-24T01:18:58.245Z",
+        "modifiedBy": "6859b1ff126bf9c340634e7b",
+        "modifiedByPrincipal": null
+      }
+    ],
+    "billingInterval": null,
+    "billingDay": null,
+    "invoiceOnly": false,
+    "forwardToParentCustomer": false,
+    "instantBilling": true
+  },
+  "state": {
+    "hasCreatedPortalOrders": null,
+    "activeInPortalSince": "2025-06-23T00:00:00Z",
+    "giftCardEndDate": null
+  },
+  "adminSubscriptions": [],
+  "welcomeMail": null,
+  "guestInvite": null,
+  "internalSettings": null,
+  "isExternal": null,
+  "sourceSupplierId": null,
+  "isEnabledForExternalSale": null,
+  "owner": {
+    "email": "kanupriya.bhargava+kbq12345@chooose.today",
+    "profile": {
+      "name": "Kanu",
+      "preferredName": null,
+      "pictureUrl": null,
+      "gender": null,
+      "otherGender": null,
+      "dateOfBirth": null,
+      "language": null,
+      "preferredSystemOfUnits": "Metric"
+    },
+    "inviteId": "6859b1ff126bf9c340634e7c",
+    "userId": "6859b1ff126bf9c340634e7b",
+    "userChoooseId": null,
+    "userAccountId": "bdb9ad27-3b70-4b50-9a9e-a6ee7280f83d",
+    "status": "Active",
+    "userAccount": null,
+    "role": null,
+    "employeeCountryCodeIso2": "US",
+    "employeeCountryName": null,
+    "employeeOffset": false,
+    "employeeOffsetFromDate": "2025-06-23T00:00:00Z",
+    "employeeOffsetToDate": null,
+    "createdDate": "2025-06-23T00:00:00Z"
+  },
+  "choooseId": "251-38000-42",
+  "partnerReference": {
+    "reference": "KBQ12345",
+    "partnershipId": "682fa8c19340de8ea5338e8a"
+  },
+  "name": "Kanu's Tea Shop",
+  "organizationNumber": "ABC12345",
+  "type": "Enterprise",
+  "email": "kanupriya.bhargava+kbq12345@chooose.today",
+  "portfolios": [],
+  "customMetadata": [],
+  "settings": {
+    "public": false,
+    "termsAndConditions": {
+      "accepted": true,
+      "acceptedDate": "2025-06-23T00:00:00Z",
+      "acceptedByUser": "6859b1ff126bf9c340634e7b",
+      "acceptedByProfile": {
+        "name": "Kanu",
+        "preferredName": "Kanu",
+        "pictureUrl": null,
+        "gender": null,
+        "otherGender": null,
+        "dateOfBirth": null,
+        "language": null,
+        "preferredSystemOfUnits": "Metric"
+      }
+    },
+    "approveFacilitatedOrdersFromPartnershipIds": null,
+    "disablePartnershipPortfolios": null,
+    "powerBi": null,
+    "language": "en",
+    "preferredSystemOfUnits": null,
+    "jetFuelSettingsId": null,
+    "lcfJetFuelSettingsId": null,
+    "footprintCalculator": null
+  },
+  "fees": null,
+  "info": {
+    "address": {
+      "line1": "123 Madison Drive",
+      "line2": "",
+      "city": "Chicago",
+      "cityCode": null,
+      "state": "US-IL",
+      "zipCode": "60612",
+      "countryCodeIso2": "US"
+    },
+    "sizeEmployees": null,
+    "firstName": null,
+    "lastName": null
+  },
+  "sourcePartnershipId": "682fa8c19340de8ea5338e8a",
+  "accountId": null,
+  "id": "6859b1ff126bf9c340634e7a",
+  "createdDate": "2025-06-23T19:58:55.416Z",
+  "createdBy": "68374f6bd05436a7d9ce33a5",
+  "createdByPrincipal": null,
+  "modifiedDate": "2025-06-24T02:47:50.747Z",
+  "modifiedBy": "6859b1ff126bf9c340634e7b",
+  "modifiedByPrincipal": null
+}

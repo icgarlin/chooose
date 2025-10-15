@@ -5,14 +5,17 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
+
+## Architecture / Library Choices
+For the UI I chose to use tailwindcss because of both prior experience and the ability easily create a simple 
+& consistent style.  The tailwind ui also facilitates the creation of a mobile user interface. 
+
+Rather than loading the data in on the frontend, I chose to simulate API calls by making use of NextJS's serverless architecture.  This enables a separation of concerns and allows for significantly less bloat on the frontend. 
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

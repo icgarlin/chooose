@@ -1,0 +1,78 @@
+{
+  "internalTitle": "SAF Generic LCF",
+  "pricingAlgorithm": "Dynamic",
+  "distributionAlgorithm": "Static",
+  "dynamicPriceThresholdTonnesCo2": null,
+  "dynamicPriceThresholdLitersLcf": null,
+  "dynamicPriceThresholdKilosLcf": null,
+  "vatByCountry": null,
+  "disableSupply": false,
+  "supplies": [],
+  "isArchived": false,
+  "title": "Sustainable Aviation Fuel (SAF)",
+  "subtitle": "Sustainable Aviation Fuel (SAF) is an alternative to fossil-based jet fuel with lower net life cycle emissions.",
+  "description": "Sustainable Aviation Fuel (SAF) has the potential to meaningfully reduce the carbon intensity of flying. \n\nWhile producing conventional jet fuel involves fossil fuel extraction, SAF production relies on more sustainable feedstocks \u2013 such as fats and oils, biomass, and synthetic fuel derived from renewable energy sources. In simple terms, the process of making SAF recycles carbon that is already in circulation as opposed to extracting and processing additional carbon from the ground (and thus releasing CO2 that has been sequestered for millions of years). As a result, SAF has a lower lifecycle carbon emissions profile as compared to fossil-based jet fuel. \n\nThere is only a scarce amount of SAF supply to date, and your support helps to contribute to the scaling of this industry \u2013 which represents a critical lever for meeting aviation's climate ambitions in the coming decades. ",
+  "theme": "Sustainable fuel",
+  "impact": "Co2",
+  "pricePerTonneCo2": null,
+  "currency": "USD",
+  "type": "Standard",
+  "childPortfolios": [],
+  "projects": [
+    {
+      "projectId": "6368d4f0a9187a4ec3b6f7f5",
+      "weight": 10,
+      "isSaf": true,
+      "supplyType": "Lcf",
+      "lcfType": "RenewableDiesel"
+    }
+  ],
+  "containsSaf": true,
+  "salesPricesPerTonneCo2": null,
+  "default": false,
+  "estimatedCustomerPricePerTonne": null,
+  "estimatedCustomerPricePerTonneXTax": null,
+  "estimatedCustomerPriceCurrency": null,
+  "baseCustomerPricePerTonne": null,
+  "baseCustomerPriceCurrency": null,
+  "vintages": null,
+  "totalTonnesCo2Available": null,
+  "totalTonnesCo2AvailableS": null,
+  "sanityTexts": [
+    {
+      "languageCode": "en",
+      "textType": "Title",
+      "text": "Sustainable Aviation Fuel (SAF)"
+    },
+    {
+      "languageCode": "en",
+      "textType": "Subtitle",
+      "text": "Sustainable Aviation Fuel (SAF) is an alternative to fossil-based jet fuel with lower net life cycle emissions."
+    },
+    {
+      "languageCode": "en",
+      "textType": "Description",
+      "text": "Sustainable Aviation Fuel (SAF) has the potential to meaningfully reduce the carbon intensity of flying. \n\nWhile producing conventional jet fuel involves fossil fuel extraction, SAF production relies on more sustainable feedstocks \u2013 such as fats and oils, biomass, and synthetic fuel derived from renewable energy sources. In simple terms, the process of making SAF recycles carbon that is already in circulation as opposed to extracting and processing additional carbon from the ground (and thus releasing CO2 that has been sequestered for millions of years). As a result, SAF has a lower lifecycle carbon emissions profile as compared to fossil-based jet fuel. \n\nThere is only a scarce amount of SAF supply to date, and your support helps to contribute to the scaling of this industry \u2013 which represents a critical lever for meeting aviation's climate ambitions in the coming decades. "
+    }
+  ],
+  "sanityImages": [
+    {
+      "isMainImage": true,
+      "url": "https://cdn.sanity.io/images/f901zpue/production/0f0cc78993242026a38a1c177e47345608fe46be-5760x3240.jpg",
+      "imageId": "image-0f0cc78993242026a38a1c177e47345608fe46be-5760x3240-jpg",
+      "assetId": "0f0cc78993242026a38a1c177e47345608fe46be",
+      "label": null,
+      "originalFileName": "CHOOOSE_SAF (2).jpg",
+      "sanityPath": "images/f901zpue/production/0f0cc78993242026a38a1c177e47345608fe46be-5760x3240.jpg"
+    }
+  ],
+  "sanityId": "19603986-68f8-4868-9ca9-d70b760c5e29",
+  "sanitySlug": "saf-generic-chooose-portfolio",
+  "id": "6368ee05a9187a4ec3b6f838",
+  "createdDate": "2022-11-07T09:52:05Z",
+  "createdBy": "sanity-sync",
+  "createdByPrincipal": null,
+  "modifiedDate": "2024-05-27T17:01:05.374Z",
+  "modifiedBy": "sanity-sync",
+  "modifiedByPrincipal": null
+}

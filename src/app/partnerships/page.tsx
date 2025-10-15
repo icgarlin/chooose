@@ -16,7 +16,7 @@ interface Partnership {
   filename: string;
 }
 
-export default function Home() {
+export default function PartnershipsListPage() {
   const router = useRouter();
   const [partnerships, setPartnerships] = useState<Partnership[]>([]);
   const [loading, setLoading] = useState(true);
