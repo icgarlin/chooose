@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
-import type { PartnershipCreation } from '@/types/partnership';
+import type { PartnershipCreation } from '@/lib/types/partnership';
 
 const CURRENCIES = ['USD', 'EUR', 'GBP', 'NOK', 'SEK', 'DKK'];
 

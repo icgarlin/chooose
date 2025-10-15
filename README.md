@@ -17,7 +17,7 @@ For the UI I chose to use tailwindcss because of both prior experience and the a
 & consistent style.  The tailwind ui also facilitates the creation of a mobile user interface. 
 
 Rather than loading the data in on the frontend, I chose to simulate API calls by making use of NextJS's serverless architecture.  Enabling a separation of concerns and allowing for significantly less code bloat on the frontend. 
-I placed the "API Response" in the lib folder because that is typically where I would have any code that detailed the structure of a returned object.  In this scenario the returned object itself essentially served this purpose. 
+
 
 
 ### Assumptions / Application Flow

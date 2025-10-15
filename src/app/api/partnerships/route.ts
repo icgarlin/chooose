@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import { writeFile, readFile, mkdir } from 'fs/promises';
 import { existsSync } from 'fs';
 import path from 'path';
-import type { Partnership, PartnershipCreation } from '@/types/partnership';
+import type { Partnership, PartnershipCreation } from '@/lib/types/partnership';
 
 const PARTNERSHIPS_DIR = path.join(process.cwd(), 'src', 'lib', 'chooose_json_objects');
 
