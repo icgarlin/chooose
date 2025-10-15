@@ -16,7 +16,7 @@ yarn dev
 For the UI I chose to use tailwindcss because of both prior experience and the ability easily create a simple 
 & consistent style.  The tailwind ui also facilitates the creation of a mobile user interface. 
 
-Rather than loading the data in on the frontend, I chose to simulate API calls by making use of NextJS's serverless architecture.  This enables a separation of concerns and allows for significantly less bloat on the frontend. 
+Rather than loading the data in on the frontend, I chose to simulate API calls by making use of NextJS's serverless architecture.  Enabling a separation of concerns and allowing for significantly less code bloat on the frontend. 
 
 
 
