@@ -1,4 +1,7 @@
 
+### AI Tools
+- Claude Code 
+
 ### Prompts
   1. Using the following image [Image #1] create a dashboard using tailwindcss
   2. Build a page that lists all partnerships in a table showing partnership name, Chooose ID, company, currency, and
